@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=%238938F7&size=26&center=true&lines=Welcome+stranger!❤️;Im+a+Pirate++from+Uruguay+☠)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%236EABF7&size=28&center=true&width=600&height=100&lines=Welcome+Stranger!;I+am+a+little+urban+achiever+%F0%9F%8C%8A+%E2%98%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 <div> 
  
