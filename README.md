@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%236EABF7&size=28&center=true&width=600&height=100&lines=Welcome+Stranger!;I+am+a+little+urban+achiever+%F0%9F%8C%8A+%E2%98%A0%EF%B8%8F)](https://git.io/typing-svg)
 
+
+
 <div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
  
 </div>
